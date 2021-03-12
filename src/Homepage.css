@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+
+}
+.homestyle{
+
+}
+h1 {
+  margin: 0;
+  margin-top: 3rem;
+  margin-bottom: 6rem;
+  text-align: center;
+  color: blue;
+}
+
+.input {
+  border: 1px solid #333;
+  border-radius: .3em;
+  padding: 1.25rem;
+  width: 12rem;
+  margin-left: 25rem;
+
+}
+
+select {
+  margin-left: .5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-left: 30.5rem;
+}
